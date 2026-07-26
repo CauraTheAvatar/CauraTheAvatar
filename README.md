@@ -3,7 +3,7 @@
 - I'm also interested in travelling, as well as nature studies
 - 🌱 I’m currently learning Android Application Development in Kotlin
 - 💞️ I’m looking to collaborate on Data Science projects, as well as Web App Dev
-- 📫 Contact me via email: conceicao.laurauuyuni@gmail.com or lauracaura888@gmail.com or conceicaolaura01@gmail.com
+- 📫 Contact me via email: conceicao.laurauuyuni@gmail.com or my profile
 - 😄 Pronouns: She/Him, cause I'm She and she's Him
 - ⚡ Fun fact: I actually have a knack for the studies of the human mind, but i am still trying to come up with a thesis study to combine the two.
 - In the meantime though, I'm just expanding my programming language palette. I'm trying to be the programming avatar, if you know what I mean
