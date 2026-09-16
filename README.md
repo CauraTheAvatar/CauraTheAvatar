@@ -1,8 +1,8 @@
-Hi, I’m @CauraTheAvatar, the African Software Wizz!.
+# Hi, I’m @CauraTheAvatar, the African Software Wizz!.
 
-Top 4 Projects of the year
+### Top 4 Projects of the year
 
-Egtus Healthcare Web App
+## Egtus Healthcare Web App
 - Deployed at: 
 - GitHub Repo:  https://github.com/CauraTheAvatar/Egtus-Web-App
 
@@ -11,18 +11,20 @@ Egtus Mobile Healthcare is a mobile clinic founded in Tsumeb by Eglien Uises.
 The mobile clinic aims to make quality healthcare more accessible for the general public of Tsumeb, catering to a range of patience. The mobile clinic is run by a certified nurse, and provides an array of services, which includes transportation to a hospital if need be.
 Egtus Mobile Healthcare is the sister clinic to Hope Home-Based Healthcare (HHBHC), and serves as one of the sponsors for HHBHC's funding community.
 The website serves as a first point of contact for potential patients, mainly for concerned loved ones who may not be able to reach their ill loved ones in time. It also serves as an information hub for any and all stakeholders to gain more insights as to what services are offered by the healthcare service provider, along with their healthcare team.
+
 -----------------------------------------
 
-Hope Home-Based Healthcare (HHBHC)
+## Hope Home-Based Healthcare (HHBHC)
 - Deployed at: 
 - GitHub Repo:  https://github.com/CauraTheAvatar/HHBHC-Web-App
 
 Product Description:
 Hope Home-Based Healthcare (HHBHC) is a non-profit healthcare provider that aims at providing quality healthcare to immobile and/or chronic patients who cannot afford quality healthcare. It was founded by Eglien Uises, after noticing a shortfall of such services for her own loved one. Though HHBHC is an NGO, it has received praise from international sponsors who recognise the need for more hands-on solutions to community-based issues. 
 The website serves as a first point of contact for potential patients, mainly for concerned loved ones who may not be able to reach their ill loved ones in time. It also serves as an information hub for any and all stakeholders to gain more insights as to what services are offered by the healthcare service provider, along with their healthcare team.
+
 -----------------------------------------
 
-Prayer Box Device-Agnostic Web Application
+## Prayer Box Device-Agnostic Web Application
 - Deployed at:  https://myprayerbox.netlify.app/
 - GitHub Repo:  https://github.com/CauraTheAvatar/prayer-box-responsive-flutter-app
 - Prayer Box Device-Agnostic Mobile Application APK:  
@@ -32,15 +34,17 @@ Product Description:
 This is a reactive Flutter-based mobile and web application designed to allow users to create, manage, and reflect on personal prayer requests. 
 I created this one while living alone in Finland, without much friends. Without anyone to speak to immediately, I recognised that I needed an intimate medium to record things I was praying for, as well as prayers that were being answered while I was there.
 This was also my first official app built with Dart and Flutter after learning of the programming language. It's definitely a passion project, but one that gets used by friends back home, beyond just testing,
+
 -----------------------------------------
 
-C'aura's Gem Quest
+## C'aura's Gem Quest
 - Deployed at:  https://caura-quest-game.web.app
 - GitHub Repo:  https://github.com/CauraTheAvatar/platformer_game
 
 Product Description:
 A device-agnostic 2D platformer game built with Flutter and the Flame game engine. Help C'aura navigate through four increasingly challenging levels, collect gems, avoid enemies and traps, and reach the checkpoint to complete each level.
 This is actually my first official attempt at building a game, and though it has a few flaws, I am so proud of myself for stepping out of my comfort zone and building something like this. I actually enjoyed playing my own game, though I would like to build something even better soon.
+
 -----------------------------------------
 
 
