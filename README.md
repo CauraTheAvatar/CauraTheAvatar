@@ -52,7 +52,7 @@ I’m currently currently working on an array of projects, including an LLM mode
 I’m looking to collaborate on Data Science projects, LLM projects, as well as fullstack software dev work.
 ## 📫 Contact me via:  
 - Email: conceicao.laurauuyuni@gmail.com
-- Portfolio Site:  https://cauratechnology.netlify.app/  (to be updated soon)
+- Portfolio Site: https://portfolio-website-self-six-17.vercel.app/
 ------------------------------------------
 
  ## Fun facts about me: 
