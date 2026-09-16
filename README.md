@@ -47,17 +47,15 @@ This is actually my first official attempt at building a game, and though it has
 
 -----------------------------------------
 
-
 I’m currently currently working on an array of projects, including an LLM model that I can embed into my own projects, as well as an automation project, namely an improved invoice generator from the slop one I created for my small business out of necessity.
 
 I’m looking to collaborate on Data Science projects, LLM projects, as well as fullstack software dev work.
-📫 Contact me via:  
+## 📫 Contact me via:  
 - Email: conceicao.laurauuyuni@gmail.com
 - Portfolio Site:  https://cauratechnology.netlify.app/  (to be updated soon)
 ------------------------------------------
 
-
- Fun facts about me: 
+ ## Fun facts about me: 
 - Pronouns: She/Him, cause I'm She and she's Him (I hope you caught my pun😄)
 - I actually have a knack for the studies of the human mind, but I am still trying to come up with a thesis study to combine the two.
 - In the meantime though, I'm just expanding my programming language palette. I'm trying to be the programming avatar, if you know what I mean
